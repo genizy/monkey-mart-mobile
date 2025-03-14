@@ -218,3 +218,4 @@ app_manifest = /manifest.appmanifest
 
 [liveupdate_reszip]
 wipe_on_start = 1
+
